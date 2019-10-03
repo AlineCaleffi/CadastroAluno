@@ -1,5 +1,3 @@
-Matrícula: 15151
+Matr�cula: 15151
 Nome: Renato Penha
 E-mail: renato.penha@uni9.pro.br
-Telefone: (11)98888-8888
-Disciplinas que leciona: Automação

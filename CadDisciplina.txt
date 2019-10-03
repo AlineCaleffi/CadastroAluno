@@ -1,3 +1,2 @@
-CÃ³digo: 001
-Disciplina: AutomaÃ§Ã£o
-Curso: Ciencia da ComputaÃ§Ã£o
+Código: 001
+Disciplina: Ciencia da Computação
